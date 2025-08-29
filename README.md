@@ -1,1 +1,1 @@
-repositório para organizar os conhecimentos adquiridos na aula de Desenvolvimento Web.
+Repositório para organizar os conhecimentos adquiridos na aula de Desenvolvimento Web.
